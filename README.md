@@ -6,6 +6,10 @@ I spent a year on the help desk at a real estate agency in Sydney, looking after
 
 I'm using this GitHub to keep my labs and projects in one place, mostly things I've built for uni or to properly learn a tool.
 
+## Projects
+
+- **[Two-office VoIP network](https://github.com/Processbasnet23/two-office-voip-network)** - Cisco Packet Tracer build with Call Manager Express, voice/data VLANs, DHCP, a site-to-site IPsec VPN and QoS for voice. Includes the router configs, screenshots and the problems I had to fix.
+
 ## What I've worked with
 
 - Microsoft 365 admin, Exchange Online, SharePoint, Teams
